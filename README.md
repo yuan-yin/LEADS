@@ -1,4 +1,4 @@
-# *LEADS*: Learning Dynamical Systems that Generalize Across Environments
+# *LEADS*: Learning Dynamical Systems that Generalize Across Environments (NeurIPS 2021) ([arXiv](https://arxiv.org/abs/2106.04546), [HAL](https://hal.archives-ouvertes.fr/hal-03261055), [OpenReview](https://openreview.net/forum?id=HD6CxZtbmIx))
 
 This repository is the official implementation of *LEADS*: Learning Dynamical Systems that Generalize Across Environments.
 
